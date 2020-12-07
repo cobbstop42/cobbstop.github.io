@@ -1,0 +1,24 @@
+header {
+    color:#ffffff;
+    background-color:#4aaaa5;
+    width: 175px;height:60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 350px;
+    text-align: center;
+    padding: 5px;
+    
+    }
+
+.jumbotron{
+    margin-left: 375px;
+    margin-right: 375px;
+    
+}
+
+ .white {
+     background-color: black;
+     
+     
+     
+
+ }
