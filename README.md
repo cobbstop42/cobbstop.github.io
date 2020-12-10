@@ -14,5 +14,5 @@ The contact page introduced the learner to the forms content in Bootstrap.  Boot
 The Portfolio page was designed to allow the learner the opportunity to work with images in the Bootstrap program.  The page was intended to include example of completed projects and experiences in the web development industry. However, since the developer is a student and has no prior experience, these images were replaced with personal interests.  Bootstrap components used in completion of this page include Navigation bar, footer, and buttons.  
 
 ***
-The project is located at git@github.com:cobbstop42/cobbstop.github.io.git
+The project is located at https://cobbstop42.github.io/cobbstop.github.io/
 ***
