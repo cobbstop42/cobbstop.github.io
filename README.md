@@ -7,6 +7,9 @@ This project was a student assignment meant to inroducce the learner to Bootstra
 ## Profile page attributes
 The profile page incudes a navigation bar, footer, image and informational paragraphs.  Creating this page introduced several aspects of Bootstrap.  The components used for this page include buttons, navigation bar, typography, and thumbnails.  Combining an image with text allowed the learner to wrap the text with the image so that it is all responsive.  
 
+
+![text](https://drive.google.com/open?id=1K92zSeEtMBVDE932aeuycz4MBEs87CnT)
+
 ## Contact page attributes
 The contact page introduced the learner to the forms content in Bootstrap.  Bootstrap’s form controls expand on the Rebooted form styles with classes. The learner was allowed to create a customized contact form by using these predefied classes.  Components used in completing this page iclude forms, navigation bar, buttons and footer.  
 
